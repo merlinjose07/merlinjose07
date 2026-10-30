@@ -41,22 +41,32 @@
 
 ## 🚀 Featured Projects
 
-### 1. Arduino-Based Tic-Tac-Toe Game
-A two-player game using an Arduino, 4×4 matrix keypad and 20×4 I2C LCD.
+### 1. Smart Fire and Gas Detection System Using ESP32
+An ESP32-based monitoring prototype using a DHT22, MQ-2 gas/smoke sensor and LDR light sensor, with local LED/buzzer indications, LCD readings and Blynk IoT monitoring.
 
-- Keypad-based player input and LCD game display
-- Win and draw detection
-- Restart function
+- Temperature and humidity monitoring
+- MQ-2 raw gas/smoke sensor readings
+- LDR-based high-light indication
+- Three-level status LEDs and buzzer
+- Blynk dashboard and danger event notifications
 
-🔗 **[View Mini Project Repository](https://github.com/merlinjose07/Mini-project)**
+🔗 **[Project source and documentation](https://github.com/merlinjose07/Mini-project/tree/main/smart-fire-and-gas-detection)**
 
-### 2. Smart EV Charging Load Manager
+### 2. Arduino-Based Tic-Tac-Toe Game
+A two-player game using Arduino UNO, a 4×4 matrix keypad and a 20×4 I2C LCD.
+
+- Keypad-based player input
+- LCD game display
+- Win/draw detection and restart function
+
+🔗 **[Project source](https://github.com/merlinjose07/Mini-project/tree/main/tic-tac-toe-arduino)**
+
+### 3. Smart EV Charging Load Manager
 A low-voltage academic demonstration concept for priority-based load management.
 
 - ESP32-based control concept
-- Wi-Fi dashboard for monitoring
+- Wi-Fi dashboard monitoring
 - Priority-based load switching
-- Designed as a safe demonstration model, separate from actual EV charger interfaces
 
 ---
 
@@ -70,8 +80,7 @@ Practical exposure to electrical infrastructure and maintenance:
 - 33 kV substation layout and equipment
 - Transformer components, maintenance and oil testing
 - Vacuum Circuit Breakers (VCBs) and protection relays
-- Cable types, insulation-resistance testing and cable testing methods
-- Electrical distribution and control panels
+- Cable types, insulation-resistance testing and electrical panels
 
 ---
 
