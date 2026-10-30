@@ -1,80 +1,114 @@
-# Merlin Jose R
+<div align="center">
 
-**Electrical and Electronics Engineering Student | Aspiring Core Electrical Engineer**
+# 👋 Hi, I'm Merlin Jose R
 
-BE Electrical and Electronics Engineering student at **Government College of Engineering, Srirangam, Tiruchirappalli**, expected to graduate in **2027**.
+### Electrical & Electronics Engineering Student | Embedded Systems & Power Technology Enthusiast
 
-I am interested in practical electrical engineering, power systems, electrical protection, embedded systems and smart energy technologies. I use academic projects and hands-on learning to strengthen my engineering fundamentals.
+<img src="https://img.shields.io/badge/EEE-Engineering-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Core-Electrical-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Arduino-Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Power-Systems-263238?style=for-the-badge" />
 
-## About Me
+**Building practical engineering solutions at the intersection of electrical systems, embedded technology and smart energy.**
 
-- 🎓 BE – Electrical and Electronics Engineering (2027)
-- 🏫 Government College of Engineering, Srirangam, Trichy
-- ⚡ Career interest: Core Electrical Engineering
-- 🔌 Areas of interest: Power Systems, Electrical Protection, Power Electronics and Electrical Machines
-- 💻 Exploring: Arduino, ESP32, Embedded Systems and IoT
-- 🌱 Interested in renewable energy, EV technology and industrial automation
+</div>
 
-## Technical Interests
+---
 
-- Power generation, transmission and distribution
-- Electrical machines and power system operation
-- Protection and switchgear
-- Transformers, substations and electrical testing
-- Power electronics and renewable energy systems
-- Microcontrollers, Arduino and ESP32
-- IoT-based monitoring and smart energy management
+## 🧩 What I Work With
 
-## Internship Experience
+### ⚡ Electrical & Power Engineering
+<img src="https://img.shields.io/badge/Power%20Systems-Engineering-1565C0?style=flat-square" />
+<img src="https://img.shields.io/badge/Protection%20%26%20Switchgear-Studies-455A64?style=flat-square" />
+<img src="https://img.shields.io/badge/Electrical%20Machines-Fundamentals-6A1B9A?style=flat-square" />
+<img src="https://img.shields.io/badge/Power%20Electronics-Learning-E65100?style=flat-square" />
+<img src="https://img.shields.io/badge/Renewable%20Energy-Interest-2E7D32?style=flat-square" />
 
-**SRM Institute of Science and Technology (SRMIST), Kattankulathur**  
-*17 June 2026 – 16 July 2026*
+### 💻 Programming & Embedded Systems
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-Programming-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-Development-00979D?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-Microcontroller-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/IoT-Smart%20Monitoring-00897B?style=flat-square" />
 
-Exposure to electrical infrastructure and maintenance activities, including:
+### 🔧 Hardware & Practical Learning
+- Microcontrollers, sensors, keypads and LCD modules
+- Relay-based low-voltage demonstration circuits
+- Electrical testing, measurement and maintenance concepts
+- Wi-Fi-based monitoring and control concepts
 
-- 33 kV substation layout and equipment
-- Transformers, transformer accessories and oil testing
-- Vacuum circuit breakers (VCBs) and protection relays
-- Cable types, cable testing and insulation-resistance measurement
-- Electrical distribution and control panels
+---
 
-## Projects
+## 🚀 Featured Projects
 
 ### 1. Arduino-Based Tic-Tac-Toe Game
+A two-player game using an Arduino, 4×4 matrix keypad and 20×4 I2C LCD.
 
-A two-player game built using an Arduino, 4×4 matrix keypad and 20×4 I2C LCD.
-
-- Keypad-based player input
-- LCD display of the game board and status
+- Keypad-based player input and LCD game display
 - Win and draw detection
 - Restart function
 
-**Repository:** [Mini-project – Tic-Tac-Toe](https://github.com/merlinjose07/Mini-project)
+🔗 **[View Mini Project Repository](https://github.com/merlinjose07/Mini-project)**
 
 ### 2. Smart EV Charging Load Manager
-
-A low-voltage academic demonstration concept for managing connected loads using priority-based switching.
+A low-voltage academic demonstration concept for priority-based load management.
 
 - ESP32-based control concept
 - Wi-Fi dashboard for monitoring
 - Priority-based load switching
-- Demonstration model kept separate from actual EV charger interfaces
-
-## Tools and Technologies
-
-- **Microcontrollers:** Arduino, ESP32
-- **Programming:** C/C++ for embedded development
-- **Hardware interests:** Keypads, LCD modules, sensors and relay-based demonstration circuits
-- **Engineering domains:** Power systems, protection, electrical machines and power electronics
-
-## Career Objective
-
-To begin a career in core electrical engineering, develop strong practical knowledge of electrical systems, and contribute to safe, reliable and efficient engineering solutions.
-
-## Connect
-
-- **GitHub:** [github.com/merlinjose07](https://github.com/merlinjose07)
+- Designed as a safe demonstration model, separate from actual EV charger interfaces
 
 ---
 
-*This repository contains my engineering introduction and project information. Project details and implementation notes will be updated as my work progresses.*
+## 🏢 Internship Experience
+
+**SRM Institute of Science and Technology (SRMIST), Kattankulathur**  
+*17 June 2026 – 16 July 2026*
+
+Practical exposure to electrical infrastructure and maintenance:
+
+- 33 kV substation layout and equipment
+- Transformer components, maintenance and oil testing
+- Vacuum Circuit Breakers (VCBs) and protection relays
+- Cable types, insulation-resistance testing and cable testing methods
+- Electrical distribution and control panels
+
+---
+
+## 🎓 Education
+
+**B.E. – Electrical and Electronics Engineering**  
+Government College of Engineering, Srirangam, Tiruchirappalli  
+**Expected Graduation:** 2027
+
+---
+
+## 🎯 Areas I'm Interested In
+
+- Core Electrical Engineering
+- Power Generation, Transmission and Distribution
+- Electrical Protection and Switchgear
+- Power Electronics and Renewable Energy
+- Embedded Systems, Arduino and ESP32
+- IoT and Smart Energy Management
+- Electric Vehicle Technology and Industrial Automation
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/merlinjose07">
+  <img src="https://img.shields.io/badge/GitHub-merlinjose07-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*Learning continuously. Building practically. Growing as an engineer.*
+
+</div>
