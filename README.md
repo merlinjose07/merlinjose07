@@ -70,6 +70,17 @@ A low-voltage academic demonstration concept for priority-based load management.
 
 ---
 
+## 🏗️ Major Project
+
+### Smart Wireless Doorbell with Camera
+An ESP32-CAM-based IoT doorbell prototype with visitor image capture, CircuitDigest Cloud integration, WhatsApp image notifications, buzzer alerts, I2S voice announcements and remote dashboard controls.
+
+**Status:** In Progress
+
+🔗 **[Major project repository](https://github.com/merlinjose07/smart-wireless-doorbell-with-camera)**
+
+---
+
 ## 🏢 Internship Experience
 
 **SRM Institute of Science and Technology (SRMIST), Kattankulathur**  
